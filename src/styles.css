@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f3f4f6;
+  padding: 20px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Colors and styles for our TMR tool */
+.shadow {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.rounded {
+  border-radius: 0.5rem;
+}
+
+.border-blue-500 {
+  border-color: #3b82f6;
+}
+
+.border-blue-200 {
+  border-color: #bfdbfe;
+}
+
+.bg-blue-50 {
+  background-color: #eff6ff;
+}
+
+.border-purple-200 {
+  border-color: #ddd6fe;
+}
+
+.bg-purple-50 {
+  background-color: #f5f3ff;
+}
+
+.border-amber-200 {
+  border-color: #fde68a;
+}
+
+.bg-amber-50 {
+  background-color: #fffbeb;
+}
+
+.border-green-200 {
+  border-color: #a7f3d0;
+}
+
+.bg-green-50 {
+  background-color: #ecfdf5;
+}
+
+.bg-gray-50 {
+  background-color: #f9fafb;
+}
